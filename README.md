@@ -7,4 +7,5 @@ Please clone this repo and follow instructions below to see converter in action
 **Converter (.Net Core) - Backend Project**
  - Open **Converter.sln** in Visual Studio 2019.
  - Build and Run the solution
- - Leave the solution running
+ - Leave the solution running 
+ - Go to TemperatureConverterUI repo to see instructions on how to Run UI and utilize this backend solution.
