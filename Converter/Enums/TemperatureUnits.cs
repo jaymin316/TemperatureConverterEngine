@@ -1,6 +1,6 @@
 ﻿namespace Converter.Enums
 {
-	public enum TemperatureUnits : int
+	public enum TemperatureUnits
 	{
 		Fahrenheit = 1,
 		Celsius = 2,
